@@ -1,0 +1,29 @@
+h1 {
+    text-align:center;
+}
+p style {
+    color:red;
+    color:blue;
+    color:chartreuse;
+    font-size:x-large;
+    font-size:small;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New';
+    color: orange;
+    font-weight: bold;
+    font-size: large;
+}
+
+
+.multipleAtt{
+    color:orange;
+    font-size: x-large;
+    font-weight: bold;
+}
+.styledFont{
+    font-style:italic;
+}
+img {
+    border: 5px solid pink;
+  }
